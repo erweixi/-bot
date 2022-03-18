@@ -1,6 +1,6 @@
 # 糖糖bot
 
-感谢[timothyqiu]https://space.bilibili.com/7092)提供的凤凰点阵字体
+感谢[timothyqiu](https://space.bilibili.com/7092)提供的凤凰点阵字体
 
 
 最初有个想法就是将糖糖搬到QQ里面，写了一段时间之后终于写成了！
